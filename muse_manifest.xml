@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tzuyuyeh.github.io" resolutions="1x,2x" timestamp="1556609987787">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tzuyuyeh.github.io" resolutions="1x,2x" timestamp="1556610171579">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="108904514" ref="index"/>
